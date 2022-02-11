@@ -1,5 +1,5 @@
 # archimate_training
 
-This project contains some references for the language Archimate
+This project contains some reference diagrams for the language Archimate
 
-The references are described using the tool Archi
+These diagrams are modelled in **Archimate** using the tool **Archi**.
